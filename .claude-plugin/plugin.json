@@ -1,0 +1,7 @@
+{
+  "name": "build-progress",
+  "version": "0.1.0",
+  "description": "See Gradle compile and build progress from inside Claude Code with /build-progress.",
+  "author": { "name": "xUmutKx" },
+  "license": "MIT"
+}
